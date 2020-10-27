@@ -13,3 +13,5 @@ func diagonalDifference(arr: [[Int]]) -> Int {
     
     return abs(topRightBottomLeft - topLeftBottomRight)
 }
+
+diagonalDifference(arr: [[11,2,4], [4,5,6], [10,8,-12]])
