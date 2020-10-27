@@ -16,4 +16,18 @@
 	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-10/27/2020-brightgreen.svg">
-</p>
+</p>https://github.com/Magy-Elias/HackerRank-Swift/blob/main/Algorithms/Warmup/DiagonalDifference/Solution.playground
+
+
+
+
+
+
+
+## Algorithms ![AlgorithmsPoints]
+- [Warmup](https://github.com/MagyElias/HackerRank#warmup)
+
+### Warmup
+| #  | Title           |  Solution       | Difficulty    | Points          
+-----|---------------- |:---------------:|:-------------:|:--------------
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground)</li><ul> Easy | 10
