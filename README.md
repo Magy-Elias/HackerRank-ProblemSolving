@@ -27,9 +27,9 @@
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground) | Easy | 10 ||
-|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/Solution.playground) | Easy | 10 | ||
-|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/Solution.playground) | Easy | 10 | ||
-|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/Mini-MaxSum/Solution.playground) | Easy | 10 | ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Swift](./Algorithms/Warmup/BirthdayCakeCandles/Solution.playground) | Easy | 10 | ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Swift](./Algorithms/Warmup/TimeConversion/Solution.playground) | Easy | 15 | ||
+| 1 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground) | Easy | 10 ||
+| 2 |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/Solution.playground) | Easy | 10 | ||
+| 3 |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/Solution.playground) | Easy | 10 | ||
+| 4 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/Mini-MaxSum/Solution.playground) | Easy | 10 | ||
+| 5 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Swift](./Algorithms/Warmup/BirthdayCakeCandles/Solution.playground) | Easy | 10 | ||
+| 6 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Swift](./Algorithms/Warmup/TimeConversion/Solution.playground) | Easy | 15 | ||
