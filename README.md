@@ -28,3 +28,4 @@
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground) | Easy | 10 ||
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/Solution.playground) | Easy | 10 | ||
