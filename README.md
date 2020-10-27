@@ -12,7 +12,7 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Rank-1023413-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Rank-1023449-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-10/27/2020-brightgreen.svg">
