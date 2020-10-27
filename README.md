@@ -27,4 +27,4 @@
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground)</li><ul> | Easy | 10 ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground) | Easy | 10 ||
