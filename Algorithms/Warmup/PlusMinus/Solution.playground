@@ -24,3 +24,5 @@ func plusMinus(arr: [Int]) {
     print(numberFormatter.string(from: NSNumber(value: negativeRatio)) ?? "")
     print(numberFormatter.string(from: NSNumber(value: zeroRatio)) ?? "")
 }
+
+plusMinus(arr: [-4, 3, -9, 0, 4, 1])
