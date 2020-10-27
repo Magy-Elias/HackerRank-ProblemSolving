@@ -24,6 +24,9 @@
 
 
 
+## Algorithms ![AlgorithmsPoints]
+- [Warmup](https://github.com/MagyElias?hr_r=1/HackerRank#warmup)
+
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
