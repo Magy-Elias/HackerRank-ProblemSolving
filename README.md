@@ -39,3 +39,8 @@
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/Mini-MaxSum/Solution.playground) | Easy | 10 | ||
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/Solution.playground) | Easy | 10 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/Solution.playground) | Easy | 10 | ||
+
+
+## Note
+- If you have encountered any problems with solutions feel free to [open new issue](https://github.com/MagyElias?hr_r=1/HackerRank/issues/new)❗️
+- If this helped you in any way consider leaving a star ⭐️
