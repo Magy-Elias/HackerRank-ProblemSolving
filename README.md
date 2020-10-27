@@ -12,8 +12,8 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Rank-1023335-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Rank-1023386-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-6-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-10/27/2020-brightgreen.svg">
 </p>
