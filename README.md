@@ -30,3 +30,4 @@
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/Solution.playground) | Easy | 10 ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/Solution.playground) | Easy | 10 | ||
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/Solution.playground) | Easy | 10 | ||
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/Min-MaxSum/Solution.playground) | Easy | 10 | ||
