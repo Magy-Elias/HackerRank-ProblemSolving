@@ -1,3 +1,11 @@
+//
+//  PlusMinus.swift
+//  HackerRank-ProblemSolving
+//
+//  Created by Magy Elias on 27/01/20.
+//  Copyright © 2020 Magy Elias. All rights reserved.
+//
+
 import UIKit
 import Foundation
 
