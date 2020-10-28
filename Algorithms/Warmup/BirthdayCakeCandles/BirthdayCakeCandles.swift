@@ -1,3 +1,11 @@
+//
+//  BirthdayCakeCandles.swift
+//  HackerRank-ProblemSolving
+//
+//  Created by Magy Elias on 15/10/20.
+//  Copyright © 2020 Magy Elias. All rights reserved.
+//
+
 import UIKit
 import Foundation
 
