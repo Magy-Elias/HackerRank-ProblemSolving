@@ -31,7 +31,7 @@
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Swift](./Algorithms/Warmup/SimpleArraySum/SimpleArraySum.playground) | Easy | 10 | ||
-|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Swift](./Algorithms/Warmup/AVeryBigSum/AVeryBigSum.swift) | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Swift](./Algorithms/Warmup/AVeryBigSum/AVeryBigSum.playground) | Easy | 10 | ||
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/DiagonalDifference.playground) | Easy | 10 ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Swift](./Algorithms/Warmup/CompareTheTriplets/CompareTheTriplets.playground) | Easy | 10 | ||
 |  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Swift](./Algorithms/Warmup/TimeConversion/TimeConversion.playground) | Easy | 15 | ||
