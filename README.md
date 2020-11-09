@@ -25,8 +25,8 @@
 
 
 ## Algorithms
-- [Warmup](https://github.com/MagyElias?hr_r=1/HackerRank#warmup)
-- [Dynamic Programming](https://github.com/MagyElias?hr_r=1/HackerRank#dynamic-programming)
+- [Warmup](https://github.com/Magy-Elias/HackerRank-ProblemSolving#warmup)
+- [Dynamic Programming](https://github.com/Magy-Elias/HackerRank-ProblemSolving#dynamic-programming)
 
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
