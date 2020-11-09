@@ -12,8 +12,8 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Rank-1023449-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Rank-715125-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-10/27/2020-brightgreen.svg">
 </p>
@@ -26,6 +26,7 @@
 
 ## Algorithms
 - [Warmup](https://github.com/MagyElias?hr_r=1/HackerRank#warmup)
+- [Dynamic Programming](https://github.com/MagyElias?hr_r=1/HackerRank#dynamic-programming)
 
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
@@ -39,6 +40,11 @@
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/MiniMaxSum/MiniMaxSum.swift) | Easy | 10 | ||
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/StairCase.swift) | Easy | 10 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/PlusMinus.swift) | Easy | 10 | ||
+
+### Dynamic Programming
+| #  | Title           |  Solution       | Difficulty    | Points          
+-----|---------------- |:---------------:|:-------------:|:--------------
+|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords/PlayWithWords.swift) | Medium | 65 | ||
 
 
 ## Note
