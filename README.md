@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/Rank-715125-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-10/27/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-11/09/2020-brightgreen.svg">
 </p>
 
 
