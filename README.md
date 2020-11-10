@@ -12,10 +12,10 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Rank-715125-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Rank-685805-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-11-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-11/09/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-11/10/2020-brightgreen.svg">
 </p>
 
 
@@ -26,6 +26,7 @@
 
 ## Algorithms
 - [Warmup](https://github.com/Magy-Elias/HackerRank-ProblemSolving#warmup)
+- [Implementation](https://github.com/Magy-Elias/HackerRank-ProblemSolving#implementation)
 - [Dynamic Programming](https://github.com/Magy-Elias/HackerRank-ProblemSolving#dynamic-programming)
 
 ### Warmup
@@ -45,6 +46,11 @@
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
 |   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords.playground/Contents.swift) | Medium | 65 | ||
+
+### Implementation
+| #  | Title           |  Solution       | Difficulty    | Points          
+-----|---------------- |:---------------:|:-------------:|:--------------
+|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Swift](./Algorithms/Implementation/GradingStudents.playground/Contents.swift) | Easy | 10 | ||
 
 
 ## Note
