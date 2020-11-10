@@ -42,15 +42,15 @@
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase.playground/Contents.swift) | Easy | 10 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus.playground/Contents.swift) | Easy | 10 | ||
 
-### Dynamic Programming
-| #  | Title           |  Solution       | Difficulty    | Points          
------|---------------- |:---------------:|:-------------:|:--------------
-|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords.playground/Contents.swift) | Medium | 65 | ||
-
 ### Implementation
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Swift](./Algorithms/Implementation/GradingStudents.playground/Contents.swift) | Easy | 10 | ||
+
+### Dynamic Programming
+| #  | Title           |  Solution       | Difficulty    | Points          
+-----|---------------- |:---------------:|:-------------:|:--------------
+|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords.playground/Contents.swift) | Medium | 65 | ||
 
 
 ## Note
