@@ -13,7 +13,7 @@ func diagonalDifference(arr: [[Int]]) -> Int {
     //calulate topLeft to bottomRight
     var topLeftBottomRight = 0
     var topRightBottomLeft = 0
-
+    
     for i in 0..<arr.count {
         topLeftBottomRight += arr[i][i]
         topRightBottomLeft += arr[i][arr.count-1-i]

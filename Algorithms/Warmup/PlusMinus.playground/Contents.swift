@@ -14,10 +14,10 @@ func plusMinus(arr: [Int]) {
     var positiveRatio: Double = 0
     var negativeRatio: Double = 0
     var zeroRatio: Double = 0
-
+    
     let numberFormatter = NumberFormatter()
     numberFormatter.maximumFractionDigits = 6
-
+    
     for i in 0..<number {
         if arr[i] > 0 {
             positiveRatio = positiveRatio + 1 / Double(number)
@@ -27,7 +27,7 @@ func plusMinus(arr: [Int]) {
             zeroRatio = zeroRatio + 1 / Double(number)
         }
     }
-
+    
     print(numberFormatter.string(from: NSNumber(value: positiveRatio)) ?? "")
     print(numberFormatter.string(from: NSNumber(value: negativeRatio)) ?? "")
     print(numberFormatter.string(from: NSNumber(value: zeroRatio)) ?? "")

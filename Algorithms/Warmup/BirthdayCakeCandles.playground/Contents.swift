@@ -20,7 +20,7 @@ func birthdayCakeCandles(candles: [Int]) -> Int {
     }
     print(tallest)
     let y = candles.filter({ $0 == tallest })
-
+    
     return y.count
 }
 
@@ -30,3 +30,4 @@ let result2 = birthdayCakeCandles(candles: [3,2,1,3])
 print(result2)
 let result3 = birthdayCakeCandles(candles: [82,49,82,82,41,82,15,63,38,25])
 print(result3)
+

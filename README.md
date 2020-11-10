@@ -31,20 +31,20 @@
 ### Warmup
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
-|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Swift](./Algorithms/Warmup/SimpleArraySum/SimpleArraySum.swift) | Easy | 10 | ||
-|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Swift](./Algorithms/Warmup/AVeryBigSum/AVeryBigSum.swift) | Easy | 10 | ||
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference/DiagonalDifference.swift) | Easy | 10 ||
-|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Swift](./Algorithms/Warmup/CompareTheTriplets/CompareTheTriplets.swift) | Easy | 10 | ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Swift](./Algorithms/Warmup/TimeConversion/TimeConversion.swift) | Easy | 15 | ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Swift](./Algorithms/Warmup/BirthdayCakeCandles/BirthdayCakeCandles.swift) | Easy | 10 | ||
-|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/MiniMaxSum/MiniMaxSum.swift) | Easy | 10 | ||
-|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase/StairCase.swift) | Easy | 10 | ||
-|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus/PlusMinus.swift) | Easy | 10 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [Swift](./Algorithms/Warmup/SimpleArraySum.playground/Contents.swift) | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [Swift](./Algorithms/Warmup/AVeryBigSum.playground/Contents.swift) | Easy | 10 | ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| [Swift](./Algorithms/Warmup/DiagonalDifference.playground/Contents.swift) | Easy | 10 ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [Swift](./Algorithms/Warmup/CompareTheTriplets.playground/Contents.swift) | Easy | 10 | ||
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [Swift](./Algorithms/Warmup/TimeConversion.playground/Contents.swift) | Easy | 15 | ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [Swift](./Algorithms/Warmup/BirthdayCakeCandles.playground/Contents.swift) | Easy | 10 | ||
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| [Swift](./Algorithms/Warmup/MiniMaxSum.playground/Contents.swift) | Easy | 10 | ||
+|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| [Swift](./Algorithms/Warmup/StairCase.playground/Contents.swift) | Easy | 10 | ||
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| [Swift](./Algorithms/Warmup/PlusMinus.playground/Contents.swift) | Easy | 10 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       | Difficulty    | Points          
 -----|---------------- |:---------------:|:-------------:|:--------------
-|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords/PlayWithWords.swift) | Medium | 65 | ||
+|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| [Swift](./Algorithms/DynamicProgramming/PlayWithWords.playground/Contents.swift) | Medium | 65 | ||
 
 
 ## Note
