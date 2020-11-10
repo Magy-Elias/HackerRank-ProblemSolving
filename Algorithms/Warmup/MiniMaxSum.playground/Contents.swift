@@ -14,7 +14,7 @@ func miniMaxSum(arr: [Int]) {
     var minimumSum: Int = 0
     var maximumSum: Int = 0
     var temp: Int
-
+    
     for i in 0..<array.count - 1 {
         for j in i..<array.count {
             if array[i] > array[j] {
@@ -24,7 +24,7 @@ func miniMaxSum(arr: [Int]) {
             }
         }
     }
-
+    
     for i in 0..<(array.count - 1) {
         minimumSum = minimumSum + array[i]
     }
