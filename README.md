@@ -9,10 +9,10 @@
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Rank-657875-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Problems%20Solved-12-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Rank-634536-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Swift-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-11/10/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-11/12/2020-brightgreen.svg">
 </p>
 
 
@@ -44,6 +44,7 @@
 -----|---------------- |:---------------:|:-------------:|:--------------
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [Swift](./Algorithms/Implementation/GradingStudents.playground/Contents.swift) | Easy | 10 | ||
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [Swift](./Algorithms/Implementation/AppleAndOrange.playground/Contents.swift) | Easy | 10 | ||
+|   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| [Swift](./Algorithms/Implementation/NumberLineJumps.playground/Contents.swift) | Easy | 10 | ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       | Difficulty    | Points          
